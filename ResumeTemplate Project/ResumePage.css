@@ -1,0 +1,66 @@
+#resume {
+    margin-left: 500px;
+    position: -webkit-sticky;
+}
+
+input {
+    padding: 5px;
+    padding-right: 20px;
+}
+
+button {
+    margin-left: 100px;
+}
+
+#resumehere {
+    border: 1px solid #ccc;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.displayView header {
+    width: 98%;
+    background-color: aquamarine;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.displayView {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    margin-bottom: 30px;
+
+}
+
+.displayView p {
+    padding-right: 30px;
+
+}
+
+.displayView article {
+    background-color: lightpink;
+    text-align: right;
+    margin-right: 900px;
+}
+
+.displayView article h2 {
+    margin-right: 5px;
+    margin-left: 5px;
+    background-color: grey;
+    text-align: left;
+}
+
+#no-matches-message {
+    border: 2px solid black ;
+    display: inline-block;
+    margin-top: 200px;
+    margin-left: 500px;
+    width: 250px;
+    text-align: center;
+    padding: 20px;
+  }

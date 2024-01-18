@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+}
+
+#loginpage {
+    border: 1px solid #ccc;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    padding: 70px;
+    background-color: yellow;
+    margin-top: 150px;
+    margin-left: 450px;
+}
+
+#loginpage input {
+    padding: 10px;
+    padding-left: 100px;
+    margin-top: 30px;
+    font-size: medium;
+}
+
+#loginpage button {
+    margin-top: 20px;
+    padding: 5px;
+    margin-left: 120px;
+    font-size: 25px;
+    background-color: lawngreen;
+    border-radius: 5px;
+}
